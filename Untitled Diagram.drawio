@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T19:21:16.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.142" version="13.2.3" etag="e6NQSS5mNv2kvEqv0S1M" type="github"><diagram id="W_c0GW3SfTE5NyL6fdaz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-11T19:27:00.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.142" etag="fP7ATVOjEkCCPAeeM7lT" version="13.2.3" type="github">
+  <diagram id="W_c0GW3SfTE5NyL6fdaz" name="Page-1">
+    <mxGraphModel dx="741" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ak437DGdQl5irLlvSK10-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ak437DGdQl5irLlvSK10-14" target="Ak437DGdQl5irLlvSK10-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-14" value="Na ekranie startowym wybierz ikonę telefonu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ak437DGdQl5irLlvSK10-26" target="Ak437DGdQl5irLlvSK10-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-26" value="Następnie na klawiaturze numerycznej wpisz wybrany numer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-28" value="Naciśnij zieloną słuchawkę by zadzwonić" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ak437DGdQl5irLlvSK10-12" target="Ak437DGdQl5irLlvSK10-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-12" value="Gdy otrzymujesz połączenie twoje urzadzenie wibruje, a ekran podświetla się" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ak437DGdQl5irLlvSK10-20" target="Ak437DGdQl5irLlvSK10-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-20" value="Spośród dwóch słuchawek (czerwonej i zielonej) kliknij na zieloną" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ak437DGdQl5irLlvSK10-22" target="Ak437DGdQl5irLlvSK10-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-22" value="Następnie przeciągnij ją w prawą stronę" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-24" value="Gotowe! Aby zakończyć połączenie kliknij w czerwoną słuchawkę" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-18" value="ODBIERANIE TELEFONU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="80" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak437DGdQl5irLlvSK10-19" value="Wykonywanie&lt;br&gt;połączenia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
